@@ -1,5 +1,5 @@
 const getPic = document.querySelector('.sample-pic');
 
 getPic.addEventListener('click', ()=>{
-    alert('this image was clicked');
+    alert('This image was clicked. Testing Successful.');
 })
